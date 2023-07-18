@@ -35,7 +35,7 @@ To run this project, you will need:
    ```
 2. Install project dependencies
    ```markdown
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
