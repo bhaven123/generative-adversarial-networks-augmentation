@@ -1,0 +1,9 @@
+numpy
+torch 
+torchvision 
+torchaudio --index-url https://download.pytorch.org/whl/cu117
+pytorch-lightning
+lightning-flash
+joblib
+tqdm
+lightning-bolts
